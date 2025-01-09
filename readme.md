@@ -4,6 +4,13 @@
 
 This is a classic Snake game implemented in Python using the `turtle` graphics library. The player controls a snake, navigating it to eat food and grow longer, while avoiding collisions with the walls and its own tail.
 
+## Images
+
+<img src="imgs/ss1.png" alt="Screenshot 1" width="300"/>
+<img src="imgs/ss2.png" alt="Screenshot 2" width="300"/>
+<img src="imgs/ss3.png" alt="Screenshot 3" width="300"/>
+<img src="imgs/ss4.png" alt="Screenshot 4" width="300"/>
+
 ## How to Run
 
 To play the game, you need to have Python installed on your system.
